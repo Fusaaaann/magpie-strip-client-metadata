@@ -1,0 +1,12 @@
+{
+  "name": "strip-client-metadata",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "magpie": {
+    "middleware": "./strip-client-metadata.middleware.js",
+    "options": {
+      "providerIds": []
+    }
+  }
+}
